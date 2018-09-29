@@ -1,0 +1,67 @@
+{
+    "coarse_best_accuracy": 0.4021000003814697,
+    "coarse_best_loss": 1.938562397480011,
+    "coarse_end_accuracy": 0.4034,
+    "coarse_end_loss": 1.9447311519622803,
+    "fine_best_accuracy": 0.2720999990105629,
+    "fine_best_loss": 2.9865796012878416,
+    "fine_end_accuracy": 0.2711,
+    "fine_end_loss": 2.9884749366760253,
+    "history": {
+        "coarse_outputs_acc": [
+            0.29238000009953974
+        ],
+        "coarse_outputs_loss": [
+            2.3268910230636597
+        ],
+        "fine_outputs_acc": [
+            0.17070000095888974
+        ],
+        "fine_outputs_loss": [
+            3.603431846809387
+        ],
+        "loss": [
+            6.412894624328613
+        ],
+        "val_coarse_outputs_acc": [
+            0.4021000003814697
+        ],
+        "val_coarse_outputs_loss": [
+            1.938562397480011
+        ],
+        "val_fine_outputs_acc": [
+            0.2720999990105629
+        ],
+        "val_fine_outputs_loss": [
+            2.9865796012878416
+        ],
+        "val_loss": [
+            5.604383920669556
+        ]
+    },
+    "loss": -0.2720999990105629,
+    "model_name": "model_0.272099999011_7c33a",
+    "real_loss": 5.607632019805909,
+    "space": {
+        "activation": "relu",
+        "batch_size": 120.0,
+        "coarse_labels_weight": 0.21928263733665793,
+        "conv_dropout_drop_proba": 0.23054100038815672,
+        "conv_hiddn_units_mult": 1.070921552141567,
+        "conv_kernel_size": 2.0,
+        "conv_pool_res_start_idx": 1.0,
+        "fc_dropout_drop_proba": 0.266357131527918,
+        "fc_units_1_mult": 1.6083278369936367,
+        "first_conv": 3,
+        "l2_weight_reg_mult": 1.3114936792284455,
+        "lr_rate_mult": 1.6017681859287929,
+        "nb_conv_pool_layers": 2,
+        "one_more_fc": null,
+        "optimizer": "Adam",
+        "pooling_type": "avg",
+        "res_conv_kernel_size": 3.0,
+        "residual": null,
+        "use_BN": true
+    },
+    "status": "ok"
+}
