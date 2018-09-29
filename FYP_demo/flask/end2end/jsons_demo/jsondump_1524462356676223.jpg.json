@@ -1,0 +1,46 @@
+{
+    "info": [
+        {
+            "name": "Meshuggah",
+            "album": "Koloss",
+            "imgURL": "https://img.discogs.com/bCrIFtkM_ogkfUH7OzbU70a531E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3498596-1402778273-6250.jpeg.jpg",
+            "bandURL": "https://www.metal-archives.com/bands/Meshuggah/21"
+        },
+        {
+            "name": "Buckethead",
+            "album": "Crime Slunk Scene",
+            "imgURL": "https://img.discogs.com/OBnlOaNZom_R89khxO0_IB4a5Ns=/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-925950-1233604056.jpeg.jpg",
+            "bandURL": "https://www.metal-archives.com/bands/Buckethead/3540384034"
+        },
+        {
+            "name": "Crimson Storm",
+            "album": "Speed Hammerin' Metal ",
+            "imgURL": "https://img.discogs.com/qrOq-U9SG7HpDsxuXg4z3KIer0k=/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8513802-1466779356-5618.jpeg.jpg",
+            "bandURL": "https://www.metal-archives.com/bands/Crimson_Storm/3540389850"
+        },
+        {
+            "name": "Iron Maiden",
+            "album": "Antwerp Massacre",
+            "imgURL": "https://img.discogs.com/qlVDqPQgldSwu105hwmjnMH_2-A=/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10625077-1501177963-8873.jpeg.jpg",
+            "bandURL": "https://www.metal-archives.com/bands/Iron_Maiden/25"
+        },
+        {
+            "name": "Vainglory",
+            "album": "2050",
+            "imgURL": "https://img.discogs.com/-auGi7gMHDSC0hR6peFIAkWDJGg=/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4390333-1363616541-6868.jpeg.jpg",
+            "bandURL": "https://www.metal-archives.com/bands/Vainglory/4162"
+        },
+        {
+            "name": "Death Angel",
+            "album": "Relentless Retribution",
+            "imgURL": "https://img.discogs.com/UdbHFYPnPVuhat2FPhCng2fCPaM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2596863-1324788809.jpeg.jpg",
+            "bandURL": "https://www.metal-archives.com/bands/Death_Angel/179"
+        },
+        {
+            "name": "Last Crack",
+            "album": "Runheadstartscreaming - The Demo Sessions 1993-94",
+            "imgURL": "https://img.discogs.com/IQXHK2dhRJJXGjz2u9T620oRLpg=/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2980472-1470823372-3184.jpeg.jpg",
+            "bandURL": "https://www.metal-archives.com/bands/Last_Crack/8805"
+        }
+    ]
+}
